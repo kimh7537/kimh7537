@@ -1,4 +1,4 @@
-### 🎓 **Education**
+### 🎓 Education
 
 ### 고려대학교(재학)
 
@@ -25,7 +25,7 @@
 - 러시아어 TORFL 1급 자격증(2023.09.18)
 - 고려대학교 중앙 스쿼시 동아리 'ENTHES' (2023.03 - 2024.08) 
 
-### Tech Stack
+### ✏️ Tech Stack
 #### Skills
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
 
