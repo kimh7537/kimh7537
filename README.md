@@ -10,6 +10,9 @@
 
 ### 🏢 Experience
 
+### Career
+(주)알파브라더스(intern) 2025.03 ~ 2025.05 Backend developer
+
 ### Activites 
 - 고려대학교 중앙 컴퓨터 동아리 'KUCC' (2022.09 - 2023.02)
 - 고려대학교 소프트웨어 개발 연구 학회 'DevKor' (2023.09 - 2024.02)
